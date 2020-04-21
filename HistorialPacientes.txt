@@ -1,0 +1,504 @@
+-----------------------------
+            PACIENTE #1
+-----------------------------
+Nombre: edede
+Cédula: 44
+Gravedad: 2
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 13:57:40
+Hora de atención: 13:59:23
+-----------------------------
+            PACIENTE #2
+-----------------------------
+Nombre: dedt
+Cédula: 34
+Gravedad: 3
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 13:58:10
+Hora de atención: 13:59:23
+-----------------------------
+            PACIENTE #3
+-----------------------------
+Nombre: elod
+Cédula: 54
+Gravedad: 5
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 13:58:22
+Hora de atención: 13:59:24
+-----------------------------
+            PACIENTE #4
+-----------------------------
+Nombre: hudeun
+Cédula: 900
+Gravedad: 2
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 13:59:43
+Hora de atención: 14:0:48
+-----------------------------
+            PACIENTE #5
+-----------------------------
+Nombre: jobhv
+Cédula: 9866
+Gravedad: 2
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 13:59:55
+Hora de atención: 14:0:48
+-----------------------------
+            PACIENTE #6
+-----------------------------
+Nombre: iobjhb
+Cédula: 767
+Gravedad: 4
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 14:0:45
+Hora de atención: 14:0:48
+-----------------------------
+            PACIENTE #7
+-----------------------------
+Nombre: jbjb
+Cédula: 9769
+Gravedad: 3
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 14:0:56
+Hora de atención: 14:1:9
+-----------------------------
+            PACIENTE #8
+-----------------------------
+Nombre: hfh
+Cédula: 5656
+Gravedad: 2
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 17:24:50
+Hora de atención: 17:24:57
+-----------------------------
+            PACIENTE #9
+-----------------------------
+Nombre: jgjg
+Cédula: 757
+Gravedad: 3
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 17:25:25
+Hora de atención: 17:25:51
+-----------------------------
+            PACIENTE #10
+-----------------------------
+Nombre: lklj
+Cédula: 657
+Gravedad: 3
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 17:25:33
+Hora de atención: 17:25:51
+-----------------------------
+            PACIENTE #11
+-----------------------------
+Nombre: jvjgjgj
+Cédula: 767676575757
+Gravedad: 4
+Fecha de entrada: 31 de Octubre del 2019
+Hora de entrada: 17:25:42
+Hora de atención: 17:25:51
+-----------------------------
+            PACIENTE #12
+-----------------------------
+Nombre: fdfsc
+Cédula: 8654
+Gravedad: 1
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:39:4
+Hora de atención: 20:39:31
+-----------------------------
+            PACIENTE #13
+-----------------------------
+Nombre: ccwr
+Cédula: 5432
+Gravedad: 2
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:39:12
+Hora de atención: 20:39:34
+-----------------------------
+            PACIENTE #14
+-----------------------------
+Nombre: 5rgtt
+Cédula: 4322
+Gravedad: 3
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:39:19
+Hora de atención: 20:39:36
+-----------------------------
+            PACIENTE #15
+-----------------------------
+Nombre: fefefe
+Cédula: 6443
+Gravedad: 5
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:38:58
+Hora de atención: 20:39:37
+-----------------------------
+            PACIENTE #16
+-----------------------------
+Nombre: rffrf
+Cédula: 4344
+Gravedad: 6
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:39:8
+Hora de atención: 20:39:38
+-----------------------------
+            PACIENTE #17
+-----------------------------
+Nombre: mkjnb
+Cédula: 8755
+Gravedad: 1
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:41:38
+Hora de atención: 20:52:56
+-----------------------------
+            PACIENTE #18
+-----------------------------
+Nombre: gtbn
+Cédula: 87659
+Gravedad: 1
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:45:23
+Hora de atención: 20:52:59
+-----------------------------
+            PACIENTE #19
+-----------------------------
+Nombre: asdfn
+Cédula: 87623
+Gravedad: 1
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:49:20
+Hora de atención: 20:53:0
+-----------------------------
+            PACIENTE #20
+-----------------------------
+Nombre: frf
+Cédula: 4545
+Gravedad: 2
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:40:12
+Hora de atención: 20:53:0
+-----------------------------
+            PACIENTE #21
+-----------------------------
+Nombre: mjnhb
+Cédula: 0987
+Gravedad: 2
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:41:31
+Hora de atención: 20:53:0
+-----------------------------
+            PACIENTE #22
+-----------------------------
+Nombre: kljhf
+Cédula: 7654
+Gravedad: 2
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:44:51
+Hora de atención: 20:53:1
+-----------------------------
+            PACIENTE #23
+-----------------------------
+Nombre: defsc
+Cédula: 8754
+Gravedad: 3
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:45:4
+Hora de atención: 20:53:1
+-----------------------------
+            PACIENTE #24
+-----------------------------
+Nombre: dfghb
+Cédula: 9875
+Gravedad: 3
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:45:14
+Hora de atención: 20:53:1
+-----------------------------
+            PACIENTE #25
+-----------------------------
+Nombre: hgtyj
+Cédula: 8765
+Gravedad: 4
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:44:9
+Hora de atención: 20:53:1
+-----------------------------
+            PACIENTE #26
+-----------------------------
+Nombre: lkijb
+Cédula: 988765
+Gravedad: 5
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:41:24
+Hora de atención: 20:53:2
+-----------------------------
+            PACIENTE #27
+-----------------------------
+Nombre: king
+Cédula: 9876
+Gravedad: 5
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:44:43
+Hora de atención: 20:53:2
+-----------------------------
+            PACIENTE #28
+-----------------------------
+Nombre: ghni
+Cédula: 98766
+Gravedad: 5
+Fecha de entrada: 1 de Noviembre del 2019
+Hora de entrada: 20:45:10
+Hora de atención: 20:53:2
+-----------------------------
+            PACIENTE #29
+-----------------------------
+Nombre: desfv
+Cédula: 5678
+Gravedad: 1
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:47:45
+Hora de atención: 18:48:20
+-----------------------------
+            PACIENTE #30
+-----------------------------
+Nombre: frnyb
+Cédula: 5433
+Gravedad: 2
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:47:30
+Hora de atención: 18:48:21
+-----------------------------
+            PACIENTE #31
+-----------------------------
+Nombre: ftghy
+Cédula: 6789
+Gravedad: 3
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:47:51
+Hora de atención: 18:48:21
+-----------------------------
+            PACIENTE #32
+-----------------------------
+Nombre: defu
+Cédula: 5432
+Gravedad: 4
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:48:4
+Hora de atención: 18:48:22
+-----------------------------
+            PACIENTE #33
+-----------------------------
+Nombre: rfrgg
+Cédula: 4222
+Gravedad: 5
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:47:22
+Hora de atención: 18:48:23
+-----------------------------
+            PACIENTE #34
+-----------------------------
+Nombre: desff
+Cédula: 7890
+Gravedad: 6
+Fecha de entrada: 4 de Noviembre del 2019
+Hora de entrada: 18:47:37
+Hora de atención: 18:48:25
+-----------------------------
+            PACIENTE #35
+-----------------------------
+Nombre: Lopez
+Cédula: 4567
+Gravedad: 2
+Fecha de entrada: 5 de Noviembre del 2019
+Hora de entrada: 23:11:14
+Hora de atención: 23:12:52
+-----------------------------
+            PACIENTE #36
+-----------------------------
+Nombre: pepe
+Cédula: 8763
+Gravedad: 2
+Fecha de entrada: 5 de Noviembre del 2019
+Hora de entrada: 23:11:33
+Hora de atención: 23:13:6
+-----------------------------
+            PACIENTE #37
+-----------------------------
+Nombre: Esteban
+Cédula: 2341
+Gravedad: 2
+Fecha de entrada: 5 de Noviembre del 2019
+Hora de entrada: 23:12:12
+Hora de atención: 23:14:20
+-----------------------------
+            PACIENTE #38
+-----------------------------
+Nombre: moncada
+Cédula: 43215
+Gravedad: 1
+Fecha de entrada: 19 de Noviembre del 2019
+Hora de entrada: 17:7:26
+Hora de atención: 17:7:42
+-----------------------------
+            PACIENTE #39
+-----------------------------
+Nombre: xdxd
+Cédula: 45678
+Gravedad: 1
+Fecha de entrada: 19 de Noviembre del 2019
+Hora de entrada: 17:7:38
+Hora de atención: 17:7:44
+-----------------------------
+            PACIENTE #40
+-----------------------------
+Nombre: pepe
+Cédula: 123456
+Gravedad: 2
+Fecha de entrada: 19 de Noviembre del 2019
+Hora de entrada: 17:7:8
+Hora de atención: 17:7:45
+-----------------------------
+            PACIENTE #41
+-----------------------------
+Nombre: Juan
+Cédula: 875785
+Gravedad: 3
+Fecha de entrada: 19 de Noviembre del 2019
+Hora de entrada: 17:6:54
+Hora de atención: 17:7:46
+-----------------------------
+            PACIENTE #42
+-----------------------------
+Nombre: keke
+Cédula: 986554
+Gravedad: 1
+Fecha de entrada: 5 de Diciembre del 2019
+Hora de entrada: 21:59:5
+Hora de atención: 21:59:10
+-----------------------------
+            PACIENTE #43
+-----------------------------
+Nombre: Juan
+Cédula: 7665
+Gravedad: 2
+Fecha de entrada: 5 de Diciembre del 2019
+Hora de entrada: 21:58:43
+Hora de atención: 21:59:13
+-----------------------------
+            PACIENTE #44
+-----------------------------
+Nombre: pepe
+Cédula: 875
+Gravedad: 2
+Fecha de entrada: 5 de Diciembre del 2019
+Hora de entrada: 21:58:56
+Hora de atención: 21:59:13
+-----------------------------
+            PACIENTE #45
+-----------------------------
+Nombre: Juan
+Cédula: 3443
+Gravedad: 3
+Fecha de entrada: 26 de Enero del 2020
+Hora de entrada: 16:21:22
+Hora de atención: 16:21:47
+-----------------------------
+            PACIENTE #46
+-----------------------------
+Nombre: Sebas
+Cédula: 3434
+Gravedad: 3
+Fecha de entrada: 26 de Enero del 2020
+Hora de entrada: 16:21:38
+Hora de atención: 16:21:51
+-----------------------------
+            PACIENTE #47
+-----------------------------
+Nombre: Jhon
+Cédula: 343434
+Gravedad: 5
+Fecha de entrada: 26 de Enero del 2020
+Hora de entrada: 16:21:4
+Hora de atención: 16:21:52
+-----------------------------
+            PACIENTE #48
+-----------------------------
+Nombre: ffrfe
+Cédula: 34434
+Gravedad: 1
+Fecha de entrada: 14 de Febrero del 2020
+Hora de entrada: 8:45:12
+Hora de atención: 8:45:47
+-----------------------------
+            PACIENTE #49
+-----------------------------
+Nombre: Juan
+Cédula: 3453
+Gravedad: 2
+Fecha de entrada: 14 de Febrero del 2020
+Hora de entrada: 8:45:6
+Hora de atención: 8:45:48
+-----------------------------
+            PACIENTE #50
+-----------------------------
+Nombre: pepe
+Cédula: 4343
+Gravedad: 2
+Fecha de entrada: 14 de Febrero del 2020
+Hora de entrada: 8:45:24
+Hora de atención: 8:45:48
+-----------------------------
+            PACIENTE #51
+-----------------------------
+Nombre: frfrfr
+Cédula: 34334
+Gravedad: 4
+Fecha de entrada: 14 de Febrero del 2020
+Hora de entrada: 8:45:43
+Hora de atención: 8:45:48
+-----------------------------
+            PACIENTE #52
+-----------------------------
+Nombre: frfrfr
+Cédula: 6543
+Gravedad: 5
+Fecha de entrada: 14 de Febrero del 2020
+Hora de entrada: 8:45:35
+Hora de atención: 8:45:49
+-----------------------------
+            PACIENTE #53
+-----------------------------
+Nombre: Juan
+Cédula: 4555
+Gravedad: 1
+Fecha de entrada: 22 de Febrero del 2020
+Hora de entrada: 8:15:23
+Hora de atención: 8:15:57
+-----------------------------
+            PACIENTE #54
+-----------------------------
+Nombre: reto
+Cédula: 3455
+Gravedad: 2
+Fecha de entrada: 22 de Febrero del 2020
+Hora de entrada: 8:15:46
+Hora de atención: 8:15:59
+-----------------------------
+            PACIENTE #55
+-----------------------------
+Nombre: djuf
+Cédula: 343
+Gravedad: 2
+Fecha de entrada: 22 de Febrero del 2020
+Hora de entrada: 8:15:52
+Hora de atención: 8:16:1
+-----------------------------
+            PACIENTE #56
+-----------------------------
+Nombre: fede
+Cédula: 78543
+Gravedad: 3
+Fecha de entrada: 22 de Febrero del 2020
+Hora de entrada: 8:15:35
+Hora de atención: 8:16:2
